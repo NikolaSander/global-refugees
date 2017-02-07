@@ -1,0 +1,9 @@
+
+## Refugees
+
+$ cd /c/Users/ndsan/AppData/Roaming/npm
+
+
+$ cmp-compile refugees.csv > refugee-data.json --pretty --regions Northamerica,Africa,Europe,FmrUSSR,Westasia,Southasia,Eastasia,Southeastasia,Stateless,Latinamerica
+
+
