@@ -1,9 +1,9 @@
 
-## Refugees
+## global-refugees.info
+
+open normal command shell via cmd!!!
 
 $ cd /c/Users/ndsan/AppData/Roaming/npm
 
 
-$ cmp-compile refugees.csv > refugee-data.json --pretty --regions Northamerica,Africa,Europe,FmrUSSR,Westasia,Southasia,Eastasia,Southeastasia,Stateless,Latinamerica
-
-
+$ cmp-compile refugee-data.csv > refugee-data.json --pretty --regions NorthAmerica,Africa,Europe,FmrUSSR,WestAsia,SouthAsia,EastAsia,SoutheastAsia,Oceania,stateless,LatinAmerica
